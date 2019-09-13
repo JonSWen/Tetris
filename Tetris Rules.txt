@@ -1,0 +1,11 @@
+RULES:
+-Use the right and left arrow keys to move a piece right and left
+-Use the up arrow key to rotate a piece 
+-Use the down arrow key to drop the piece slightly faster
+-Press space to immediately drop a piece to the bottom of the board
+-Press C to "hold a piece"
+When the game starts, choose an initial speed you want the pieces to drop at(1-5, 1 being
+slowest and 5 being faster). As you start, your score will be zero, but gain points by
+clearing lines(more per lines in 1 clear) and dropping pieces. As your score gets higher
+your speed will aso increase. Once the pieces hit the "top" the game will end, and you can
+either choose to play again or to exit the program. 
